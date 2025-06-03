@@ -20,12 +20,9 @@ A lightweight and responsive web application to generate secure passwords based 
 - JavaScript
 
 
-_Add a few screenshots here if possible (UI, generator panel, etc.)_
-
 ## 🌐 Live Demo
 
 [🔗 View Live Project](https://passwordgenerator545.netlify.app/)  
-*(Replace with your actual deployment link if hosted)*
 
 ## 🧠 What I Learned
 
